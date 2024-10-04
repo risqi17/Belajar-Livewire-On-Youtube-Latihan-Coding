@@ -1,0 +1,5 @@
+composer require livewire/livewire
+
+php artisan make:livewire hello-world
+
+edit views livewire blade tambah text Hello Dunia
