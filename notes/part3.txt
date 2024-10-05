@@ -1,0 +1,9 @@
+php artisan make:livewire todos
+
+create route
+Route::get('/todos', function () {
+    return view('todos');
+});
+
+create view todos.blade
+
