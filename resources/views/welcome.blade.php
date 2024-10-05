@@ -12,6 +12,9 @@
 
     </head>
     <body>
-        <livewire:hello-world/>
+        {{-- <livewire:hello-world/> --}}
+
+        {{-- Part 2 --}}
+        <livewire:counter/>
     </body>
 </html>
